@@ -5,6 +5,7 @@ body {
 
 aside {
     width:420px;
+    height: 855px;
     float:left;
     padding-top:20px;
     background-color:#ffdb4d;
@@ -40,7 +41,7 @@ h3 {
     font-family: "Agency FB";
     font-size: 24px;
     text-align: center;
-    
+
 
 }
 
@@ -52,22 +53,16 @@ h4 {
 
 }
 
-h5 {
-
-
-}
 
 p {
     font-family: "Segoe UI";
-    margin-left: 10px;
-    text-align: center;
+
     font-size: 18px;
 }
 
 li {
     font-family: "Segoe UI";
-    margin-left: 10px;
-    text-align: center  ;
+
 
 }
 
@@ -86,6 +81,7 @@ section {
 footer {
     background-color: darkgrey;
     float: center;
+    text-align: center;
 
 }
 
