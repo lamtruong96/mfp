@@ -1,0 +1,79 @@
+body {
+    opacity: 0.8;
+
+}
+
+main {
+    margin: auto;
+    width: 70%;
+
+
+}
+
+header {
+    margin: auto;
+    width: 70%;
+    background-color: black;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: "Segoe UI Black";
+    font-style: bold;
+    font-size: 32px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    margin-left: 20px;
+    font-family: "Segoe UI Black";
+    font-size: 24px;
+    text-align: left;
+
+}
+
+h3 {
+    margin-left: 20px;
+    font-family: "Segoe UI Black";
+    font-size:18px;
+    text-align: left;
+    color: back;
+}
+
+p {
+    margin-left: 20px;
+    font-family: "Segoe UI";
+    font-size: 14px;
+
+}
+
+#menu1, #menu3 {
+    float: left;
+    background-color: lightgoldenrodyellow;
+    width: 48%;
+    margin-bottom: 30px;
+
+}
+
+#menu2, #menu4 {
+    float: right;
+    background-color: lightgoldenrodyellow;
+    margin-bottom: 30px;
+    width: 48%;
+
+}
+
+.food {
+    text-align: left;
+    margin-left: 20px;
+
+}
+
+.price {
+    text-align: right;
+    margin-right: 20px;
+
+}
