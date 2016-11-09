@@ -19,7 +19,7 @@ header {
 
 h1 {
     text-align: center;
-    font-family: "Segoe UI Black";
+    font-family: "Segoe UI";
     font-style: bold;
     font-size: 32px;
     color: white;
@@ -29,7 +29,8 @@ h1 {
 
 h2 {
     margin-left: 20px;
-    font-family: "Segoe UI Black";
+    font-family: "Segoe UI";
+    font-style: bold;
     font-size: 24px;
     text-align: left;
 
@@ -37,7 +38,8 @@ h2 {
 
 h3 {
     margin-left: 20px;
-    font-family: "Segoe UI Black";
+    font-family: "Segoe UI";
+    font-style: bold;
     font-size:18px;
     text-align: left;
     color: back;
@@ -53,16 +55,17 @@ p {
 #menu1, #menu3 {
     float: left;
     background-color: lightgoldenrodyellow;
-    width: 48%;
+    width: 45%;
     margin-bottom: 30px;
-
+    margin-left: 30px;
 }
 
 #menu2, #menu4 {
     float: right;
     background-color: lightgoldenrodyellow;
     margin-bottom: 30px;
-    width: 48%;
+    margin-right: 30px;
+    width: 45%;
 
 }
 
